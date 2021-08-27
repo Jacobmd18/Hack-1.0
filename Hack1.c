@@ -3,7 +3,7 @@
  * Author: Enter your Name
  * Date: Enter the date
  *
- * Hack 1.0
+ *  1.0
  *
  */
  #include <stdlib.h>
@@ -11,9 +11,10 @@
 
  int main(int argc, char **argv) {
 
-    printf("Enter your name \n");
-    printf("Enter your major");
+     printf("Enter your name \n");
+     printf("Enter your major \n");
+
+     return 0;
 
 
-    return 0;
-}
+ }
