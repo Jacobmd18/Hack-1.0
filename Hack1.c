@@ -13,6 +13,8 @@
 
      printf("Enter your name \n");
      printf("Enter your major \n");
+     printf("Jared Engelmnan\n");
+     printf("Electrical Engineering\n");
 
      return 0;
 
